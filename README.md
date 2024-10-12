@@ -16,7 +16,7 @@
 ![Providing Input](./images/Details.png)
 
 ### All Ai agents communicating with each Other
-![Agents Interaction](./images/Agents-Interaction.png)
+![Agents Interaction](./images/Agents_Interaction.png)
 
 ### Generate Trip according to the inputed Details
 ![7 Days Trip](./images/Output.png)
