@@ -1,6 +1,6 @@
 # CrewAI-AI-Trip-Planner
 
-![Trip Planner Banner]([https://example.com/banner-image.png](https://example.com/ai-interaction.png))
+![Trip Planner Banner](./images/banner.png)
 
 **CrewAI-AI-Trip-Planner** is an AI-powered solution designed to help users efficiently plan their trips. The AI agent interacts with users to recommend destinations, optimize routes, and create itineraries based on preferences. The project integrates **OpenAI** for natural language interaction, **LangChain** for advanced conversation flows, and OpenAI APIs to provide dynamic, real-time trip planning capabilities.
 
@@ -13,13 +13,13 @@
 ## Screenshots
 
 ### Providing details about the trip
-![Providing Input](https://example.com/ai-interaction.png)
+![Providing Input](./images/Details.png)
 
 ### All Ai agents communicating with each Other
-![Agents Interaction](https://example.com/route-planning.png)
+![Agents Interaction](./images/Agents-Interaction.png)
 
 ### Generate Trip according to the inputed Details
-![7 Days Trip](https://example.com/map-view.png)
+![7 Days Trip](./images/Output.png)
 
 ## Tech Stack
 - **APIs**: OpenAI API, Google Maps API, LangChain, crewAI
